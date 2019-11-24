@@ -1,13 +1,12 @@
 def square_array(array)
 end
 
-def square_array(array)
-  numbers = [1, 2, 3]
-sum = Math.sqrt(numbers)
 
+ numbers = [1, 2, 3]
+ 
 counter = 0
 while counter[array] do
-  array[counter] 
+  array[counter]{|num| num ** 2}
   counter += 1
 end
 end
