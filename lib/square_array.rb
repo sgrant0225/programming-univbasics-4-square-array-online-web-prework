@@ -2,7 +2,7 @@ def square_array(array)
 end
 
 
-array.to_i = [1, 2, 3]
+array = [1, 2, 3]
  
 counter = 0
 while counter[array] do
